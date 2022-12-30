@@ -36,7 +36,5 @@ body {
     font-family: 'Noto Sans KR', sans-serif;
     line-height: 1;
     letter-spacing: -0.025em;   
-    color: #1d253a; 
-    word-break: keep-all;
-    letter-spacing: -0.025em;
+    color: #111111; 
 }
